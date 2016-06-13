@@ -1,0 +1,2 @@
+alpha borders along top and bottom (for intro and out transitions)
+let it all load up front so game is ready to go
